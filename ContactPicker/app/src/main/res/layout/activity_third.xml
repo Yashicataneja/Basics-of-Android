@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="7">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/Simple_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Simple Button"
+            android:textSize="24dp" />
+
+        <Button
+            android:id="@+id/simple_button"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="90dp"
+            android:text="Ok" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/ImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Image Button"
+            android:textSize="24dp" />
+
+        <ImageButton
+            android:id="@+id/imgButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:background="@color/colorAccent"
+            android:src="@mipmap/ic_launcher" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/FloatingButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Floating Button"
+            android:textSize="24dp" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:src="@android:drawable/ic_dialog_email" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.5"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/CheckBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CheckBox"
+            android:textSize="24dp" />
+
+        <LinearLayout
+
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/checkbox_Veg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onCheckboxClicked"
+                android:text="@string/veg" />
+
+            <CheckBox
+                android:id="@+id/checkbox_NonVeg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onCheckboxClicked"
+                android:text="@string/nonveg" />
+
+            <CheckBox
+                android:id="@+id/checkbox_Both"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onCheckboxClicked"
+                android:text="@string/mix_cheese" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Radio Button"
+            android:textSize="24dp" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/radio_yes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onRadioButtonClicked"
+                android:text="@string/yes" />
+
+            <RadioButton
+                android:id="@+id/radio_no"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onRadioButtonClicked"
+                android:text="@string/no" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/ToggleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Simple Button"
+            android:textSize="24dp" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="ToggleButton" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/Switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Switch"
+            android:textSize="24dp" />
+
+        <Switch
+            android:id="@+id/switch1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+         />
+    </LinearLayout>
+</LinearLayout>

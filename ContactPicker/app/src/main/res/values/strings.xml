@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidRND</string>
+    <string name="test">Test</string>
+    <string name="textview">TEXTVIEW</string>
+    <string name="cheese">cheese</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="veg">Veg</string>
+    <string name="nonveg">NonVeg</string>
+    <string name="mix_cheese">mix_cheese</string>
+
+    <string-array name="language_array">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>dotnet</item>
+        <item>Angular js</item>
+        <item>HTML5</item>
+        <item>JavaScript</item>
+    </string-array>
+</resources>
