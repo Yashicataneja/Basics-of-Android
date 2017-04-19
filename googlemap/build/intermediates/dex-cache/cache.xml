@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_ebf90bd85bad8ff7c512d967b682c099f30e82a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.0_86fb61fc2f4f183f3f20e6535ddd0bbb2a6e2bda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_f5da196f830376d5085915fd9e1ebb7aba1e5047.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.0.0_618cd653485bcf649ff45f873ef53b337c5e4476.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.0.0_92a149e18985964dda5104a1e67a765413fe4b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.0.0_47d3e4e58e2f3f312f5f5fa990355815c0f2b96f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_5513c4183e64207be7b4a05e54664077c1a163ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.0.0_74bde261c44f69ff1ff85e148af8ad3c5102f33f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.0.0_372ccedb21ae27928a900e5a89d32657c830b2cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.0.0_7cd71801988c1031969cca5bf6c21e204525ae13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.0.0_f75c22fe70ce8fe31df2db0fa6f8422f981262d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.0.0_9af31d5f17d62202c777fc74651a8ed843c59d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.0.0_031b6687ccaa8ebdd187fa0ab5c567f421fdde4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.0.0_75d63e309e1e0301d25572d67a49dacb86eb2bc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.0_1e24ec6b2f991b1363845714ccc9c9e4ae2c9815.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_784ef29d0da34426336d7a9b77d2574d3192df8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_9e100b9f11575d7150e931f6821a25353010cdb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_0485124e490b60723b88e38d1ced78c4286d94b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_fc0ce0279689ec8512e8e8d5eca1b4f4ff3bf450.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.0.0_6b4bb81e8b0dccd491d2f71993baeb6d6882e45f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_25660a23564cb6415dd000219b6f42bd19c1e5c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.0.0_3c388f27c2067d9529abcee7ccda08111baea747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.0.0_c9ba85f0b7c683922cc97219c87db93266f609f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152d1de4d18361aabd69adeefe3dee15e4fd238f">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.4.2_aa15f5ad4bd644dbb46fb656a8e9d03c787e4bd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.0.0_4a142279a74dbcf924a387bc5685f39cca77eaf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.0.0_2a43947cab6a9be4210baddc582fb7be9f9c6f8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.0.0_a427528e91bf9359b770ede0b9db35d6209ecfdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.0.0_0b49f2cdd945e6e2dc4ed31a584632d7f4c8fff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.0.0_1dadc55445b830344fbcef6ac4a95d1c7a304e74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_46e2ac0df71a9b10fa8f10571deb76d7ea2795f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.0_36c9a42c4481275f73e6427c34a9d039881e201d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_89028a36c31cf75daf979b83d217053e64ef23ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_ad0c0b0be54ad2a45928bf18eaf610c84bcca26f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_76262a6a2c17fd5ee6928d6a12f13933a9793781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.0.0_0cc7604e151db8756998c61fa7f12bd9e0162d46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_732bd00a1cfbd94118896d3779b829d3c5dfa533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.0.0_26e38f6261b777065966772f7cee6eef2810930d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.0.0_fcd843922786836f2a93cb94e4c23c4b5a36be46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.0.0_1faa77ab4d2087515ed42ad92fd78e593a6f757d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_b5901080eeea3cd6a32761b69383652a42788915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.0.0_09a66ec1c9392bcf97a3381c2b3042f0d836b0a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_f2e83fb2bd931f5dcf6561121faf980904ded275.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.0.0_3943b8d23c25cb77a86742592e8139b5aea0ad18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_3644fe2b42bc0b0c0fb7aaaf15379b1c1a91766e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.0.0_bd9b58f9a66709fc12c940ce5e824e884025e040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.0.0_581523b25070616d447e7da3256fc92e0ff47d9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3290bc1da3547401401473aeb2aad69156cd4631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.0.0_46a57205d949b14c31f5a85dd48cc4d2c01c9842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_34732348a3609d4886626b6cb35e9d413d65d23b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2521e4609173aadf9b94720572654c5b905d0dfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.0.0_dcea913938665d3249c00f8d7dad00a39c8a2672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.0.0_5f80bcdbafadc44036e88fa4be321be073164e9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.0.0_ea5988a46f992deba38967ac84a2022942f29dcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.0.0_cf449d6addd668956a8022248ee85b76355a2701.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.0.0_36154999156b244239e713947a224b50834a448c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b843a31c4b3e8b46d51996e9a86485dabbec5071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.0.0_20702eba2f856f259ae00b6c0411fddd0d997f1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.0.0_54e077d9508c5df3a71ed36d516edde66b4c541b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.0.0_ed86d16418ec52bb8bdafffd164a9dbb63806984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.0.0_6d803db2ed443c42166f55ee82f920e251ebb0fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/cmss/Documents/GoogleMapDemo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a0ddbea2e01c240e1cc7e646d9fc55b4056758a8.jar" />
+    </item>
+
+</items>
