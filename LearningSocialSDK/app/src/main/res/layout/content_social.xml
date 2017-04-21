@@ -13,4 +13,10 @@
     tools:context="com.example.cmss.learningsocialsdk.SocialActivity"
     tools:showIn="@layout/activity_social">
 
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/social_social"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/activity_vertical_margin" />
+
 </RelativeLayout>
