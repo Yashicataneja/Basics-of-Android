@@ -8,7 +8,7 @@
         android:supportsRtl="true">
         <activity android:name=".BeneficiaryChooserActivity" />
         <activity android:name=".requestMoney.RequestMoneyChooserActivity" />
-        <activity android:name=".splitAndShare.ShareMoneyChooserActivity"></activity>
+        <activity android:name=".splitAndShare.ShareMoneyChooserActivity" />
     </application>
 
 </manifest>

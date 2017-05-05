@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="root_view" type="id"/>
+
+    <item name="contact_name" type="id"/>
+    <item name="contact_value" type="id"/>
+
+    <item name="content_key" type="id"/>
+    <item name="content_value" type="id"/>
+</resources>

@@ -10,12 +10,16 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 
 import com.example.cmss.learningsocialsdk.R;
+import com.example.social_contacts.BeneficiaryChooserActivity;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class DashBoardActivity extends AppCompatActivity {
 
+
+
+    BeneficiaryChooserActivity activity = new BeneficiaryChooserActivity();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

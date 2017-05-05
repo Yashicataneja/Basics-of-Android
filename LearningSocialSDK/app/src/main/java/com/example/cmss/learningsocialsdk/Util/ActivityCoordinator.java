@@ -5,6 +5,9 @@ import android.content.Intent;
 
 import com.example.cmss.learningsocialsdk.SocialActivity;
 import com.example.cmss.learningsocialsdk.dashboard.DashBoardActivity;
+import com.example.social_contacts.BeneficiaryChooserActivity;
+import com.example.social_contacts.requestMoney.RequestMoneyChooserActivity;
+import com.example.social_contacts.splitAndShare.ShareMoneyChooserActivity;
 
 
 /**
@@ -24,17 +27,17 @@ public class ActivityCoordinator {
     }
 
     public static void openSocialSendMoney(Activity activity) {
-        Intent intent = new Intent(activity, SocialActivity.class);
+        Intent intent = new Intent(activity, BeneficiaryChooserActivity.class);
         activity.startActivity(intent);
     }
 
     public static void openSplitShareMoney(Activity activity) {
-        Intent intent = new Intent(activity, SocialActivity.class);
+        Intent intent = new Intent(activity, RequestMoneyChooserActivity.class);
         activity.startActivity(intent);
     }
 
     public static void openSocialRequestMoney(Activity activity) {
-        Intent intent = new Intent(activity, SocialActivity.class);
+        Intent intent = new Intent(activity, ShareMoneyChooserActivity.class);
         activity.startActivity(intent);
     }
 }

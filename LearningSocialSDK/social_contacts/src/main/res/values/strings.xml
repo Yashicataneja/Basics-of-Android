@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Social_contacts</string>
+    <string name="Next">Next</string>
+    <string name="social_channel_sms">social_channel_sms</string>
+    <string name="social_channel_email">social_channel_email</string>
+    <string name="social_channel_whatsapp">social_channel_whatsapp</string>
+    <string name="whatsapp_contact_message">whatsapp_contact_message</string>
 </resources>

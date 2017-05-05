@@ -12,24 +12,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/cmss/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_164462fd5780a8e337ea0433cfb11254bc9190dd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_0d67b26bab5630675420878a7c6699630c5e7edd.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -39,57 +21,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/LearningSocialSDK/social_contacts/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_9d7c139b8c2bd5a0973810292ea52ab8d4a593c7.jar" />
+        sha1="fd8186d1a279209c49fc0d2a4192b7ca1529910c">
+        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/LearningSocialSDK-social_contacts-unspecified_8e616bd695837034db2b26c155ccb27e5fca58ae.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_f9c6e27aee3b17059efed015725bd664e091a378.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_f1ecc892f29e135996b2730697b7ad4bf423b57b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_25bee03476bbad91fdb85bd8221698e7c696fd10.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_01a614d55df06c172ab8adcfb7032bc0fc19bfbc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_40778d6548a908e58d5e1eb54b934ca37061b86d.jar" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_609d95372c14b7ce3f2f5154cf9c3bba08207788.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,21 +48,84 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_31a7c77763fc297717d4d6a6c6ca450d305d2355.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_e0d74fff5213fdc43dc99467a5a9bf8fab599a62.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_6687f410ecddc10cdfe11cd6d1295acabf5a3e2a.jar" />
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_086f653c68c17f87659a1651f538daa3881625f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_06430cf91bb92aaf07ed5b0cd9794293ee89c125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_a500134648d53ec97760da12d5a98c8965b0fb32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_b5945ee9c436e9db64b28782ea4df9d9b3a3ddc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_8e53c4acbb44c4b923dee479059defd6da0b41b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_9151eca95a0cbd6d8f80d1eab5b3ad67cfd726ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_a1231f6717e3fd905d27e1ecb3359ef8e8ff01d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cmss/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/cmss/Documents/Basics_of_android/Basics-of-Android/LearningSocialSDK/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_df703977807f784dd49c56f3fceee969b44166ce.jar" />
     </item>
 
 </items>
