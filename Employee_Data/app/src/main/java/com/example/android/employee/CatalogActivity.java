@@ -40,6 +40,8 @@ import com.example.android.employee.data.EmployeeContract;
 public class CatalogActivity extends AppCompatActivity implements
         LoaderManager.LoaderCallbacks<Cursor> {
 
+
+    
     private static final int EMPLOYEE_LOADER = 0;
 
     EmployeeCursorAdapter mCursorAdapter;
